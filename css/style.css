@@ -1,0 +1,46 @@
+
+a img {
+  height: 10px !important;
+  width:  10px !important;
+}
+
+.person-reviews {
+  margin-top: 7px !important;
+
+}
+
+.app-slider {
+  height: 400px;
+}
+
+.button-app {
+  margin-bottom: 10px;
+}
+
+.row {
+  margin: 0 auto;
+}
+
+.chart {
+  height: 200px;
+  width: 70% !important;
+  margin: 0 auto;
+}
+
+.point-rate {
+  position: absolute;
+  top: 60px;
+  left: 30px;
+}
+
+.row-point-rate {
+  position: relative;
+}
+
+.copyright {
+  margin-left: 15px;
+}
+
+.canvasjs-chart-credit {
+  display: none;
+}
