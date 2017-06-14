@@ -1,3 +1,7 @@
+.imge-review img {
+  height: 75px !important;
+  width: 75px !important;
+}
 
 a img {
   height: 10px !important;
@@ -35,8 +39,4 @@ a img {
 
 .row-point-rate {
   position: relative;
-}
-
-.copyright {
-  margin-left: 15px;
 }
